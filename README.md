@@ -19,4 +19,5 @@ You can see control instructions by clicking [Tab]
 
 ![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/6.png)
 ![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/10.png)
+![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/11.png)
 ![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/3.png)
