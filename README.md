@@ -18,5 +18,5 @@ Run it with `./fdf [map]`. A bunch of sample maps are provided in the `test_maps
 You can see control instructions by clicking [Tab]
 
 ![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/6.png)
-![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/5.png)
+![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/10.png)
 ![screenshot](https://github.com/AlicePlis/fdf/blob/main/img/3.png)
